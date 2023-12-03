@@ -6,7 +6,7 @@
 * Model Compile and Fit
 * Model Evaluation 
 * Data Augmentation
-* Rebalancing
+* Class Balancing
 * Model Compile and Fit
 * Final Model Evaluation and Conclusion
 
@@ -17,7 +17,17 @@
 #
 ## Skin cancer is a prevalent form of cancer, arising from the uncontrolled growth of skin cells. There are three primary types: Basal Cell Carcinoma (BCC), Squamous Cell Carcinoma (SCC), and Melanoma. BCC is the most common, often appearing as raised, pearly bumps, while SCC manifests as scaly red patches or warts. Both are usually treatable if detected early. Melanoma is more aggressive, originating in pigment-producing cells, and poses a higher risk of metastasis. Risk factors include prolonged sun exposure, genetics, and a compromised immune system. Regular skin examinations, sun protection, and awareness of changes in moles or skin lesions are crucial for early detection and effective treatment of skin cancer. Education about prevention and early intervention plays a vital role in minimizing the impact of this potentially deadly disease.
 #
-## 
+## The data set contains the following diseases:
+
+* Actinic keratosis
+* Basal cell carcinoma
+* Dermatofibroma
+* Melanoma
+* Nevus
+* Pigmented benign keratosis
+* Seborrheic keratosis
+* Squamous cell carcinoma
+* Vascular lesion
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
